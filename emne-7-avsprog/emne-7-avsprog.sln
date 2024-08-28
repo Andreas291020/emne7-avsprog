@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 1 Introduksjon", "Module 1 Introduksjon", "{A4A9F80E-6BAC-42BE-A6C0-2F0B1C66FF30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Hello-RestAPI", "1-Hello-RestAPI\1-Hello-RestAPI.csproj", "{AD40CA01-D145-4718-9852-AEE413C54DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-PersonRestAPI", "2-PersonRestAPI\2-PersonRestAPI.csproj", "{57F3942B-1A3D-486F-BD35-2E4EDBFAAF2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{CA50AA8A-8FDA-493C-B352-ED1009E29506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD40CA01-D145-4718-9852-AEE413C54DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD40CA01-D145-4718-9852-AEE413C54DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD40CA01-D145-4718-9852-AEE413C54DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD40CA01-D145-4718-9852-AEE413C54DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F3942B-1A3D-486F-BD35-2E4EDBFAAF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F3942B-1A3D-486F-BD35-2E4EDBFAAF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F3942B-1A3D-486F-BD35-2E4EDBFAAF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F3942B-1A3D-486F-BD35-2E4EDBFAAF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA50AA8A-8FDA-493C-B352-ED1009E29506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA50AA8A-8FDA-493C-B352-ED1009E29506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA50AA8A-8FDA-493C-B352-ED1009E29506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA50AA8A-8FDA-493C-B352-ED1009E29506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD40CA01-D145-4718-9852-AEE413C54DDF} = {A4A9F80E-6BAC-42BE-A6C0-2F0B1C66FF30}
+		{57F3942B-1A3D-486F-BD35-2E4EDBFAAF2B} = {A4A9F80E-6BAC-42BE-A6C0-2F0B1C66FF30}
+		{CA50AA8A-8FDA-493C-B352-ED1009E29506} = {A4A9F80E-6BAC-42BE-A6C0-2F0B1C66FF30}
+	EndGlobalSection
+EndGlobal
